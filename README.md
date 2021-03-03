@@ -4,4 +4,4 @@ Python is a powerful general-purpose programming language. It is used in web dev
 
 Our Python tutorial will guide you to learn Python one step at a time.
 
-If you prefer videos, watch our Python for beginners playlist on Youtube.
+If you prefer videos, watch our playlist on Youtube.
