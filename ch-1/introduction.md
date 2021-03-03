@@ -14,7 +14,7 @@ Follow the following steps to run Python on your computer.
 
 1. Download Thonny IDE.
 2. Run the installer to install Thonny on your computer.
-3. Go to: File > New. Then save the file with .py extension. For example, hello.py, example.py, etc.
+3. Go to: File > New. Then save the file with .py extension. For example, ``` hello.py ```, ``` example.py ``` , etc.
 You can give any name to the file. However, the file name should end with .py
 4. Write Python code in the file and save it
 5. Then Go to Run > Run current script or simply click F5 to run it.
